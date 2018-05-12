@@ -1,15 +1,21 @@
 _repo: Het-leven-en-de-lotgevallen-van-David-Copperfield_47933
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Dutric
     gutenberg_agent_id: '44528'
     url: http://www.gutenberg.org/2009/agents/44528
+covers:
+- cover_type: archival
+  image_path: 47933-h/images/cover.jpg
 creator:
   author:
     agent_name: Dickens, Charles John Huffam
     gutenberg_agent_id: '44527'
     url: http://www.gutenberg.org/2009/agents/44527
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47933#Het-leven-en-de-lotgevallen-van-David-Copperfield
 gutenberg_issued: '2015-01-10'
 gutenberg_type: Text
 identifiers:
